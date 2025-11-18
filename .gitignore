@@ -1,4 +1,4 @@
 # Ignore environment (secret) files
 .env
 new_secret.txt
-secret.txt
+oldsecret.txt
