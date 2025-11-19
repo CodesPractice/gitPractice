@@ -1,1 +1,2 @@
 - This is featureA branch
+- the newly added line
